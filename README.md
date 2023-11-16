@@ -1,3 +1,4 @@
+![logo](https://github.com/aliffianilhamf/aliffianilhamf/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm aliffian ilham</h1>
 <h3 align="center">I am a student from Indonesia</h3>
 
