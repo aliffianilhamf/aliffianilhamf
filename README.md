@@ -11,7 +11,7 @@
 - 📫 How to reach me **aliffianilhamf@gmail.com**
 
 - ⚡ Fun fact **I am funny 😊**
-- Please visit : aliffianilhamf.github.io
+- Please visit : https://aliffianilhamf.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
